@@ -1,0 +1,40 @@
+Pohang                  30000
+Pohang Weather          40000
+Pohang Cafe             80000
+Pohang Restaurant       50000
+Pohang Hotel            10000
+Paju Cafe               8000
+Incheon Airport         15000
+Daegu Stadium           12000
+Seoul Tower             20000
+Busan Beach             25000
+Daejeon Park            11000
+Gwangju Museum          14000
+Suwon Fortress          13000
+Jeonju Hanok Village    16000
+Cheongju Zoo            9000
+Changwon Park           7000
+Gyeongju Museum         18000
+Gangneung Beach         22000
+Yeosu Aquarium          17000
+Geoje Island            24000
+Jeju Volcano            26000
+Andong Mask Festival    5000
+Paju Book City          4000
+Gimhae Airport          20000
+Iksan Jewelry Museum    3000
+Gimpo Airport           25000
+Uijeongbu Station       12000
+Seongnam Art Center     8000
+Goyang Lake Park        15000
+Ansan Botanical Garden  13000
+Anyang Art Park         14000
+Pyeongtaek Port         11000
+Gimcheon Park           6000
+Gumi Electronics Museum 7000
+Mokpo Marine Museum     9000
+Sokcho Beach            23000
+Tongyeong Cable Car     21000
+Suncheon Bay            19000
+Miryang River           17000
+Gunsan Air Base         22000
